@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Joel! <br/><a href="https://github.com/joelnsadha">Finance Professional</a>, <a href="https://www.linkedin.com/in/joelnsadha/">Data Analyst</a>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="joelnsadha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="joelnsadha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/joelnsadha/
+[linkedin]: https://linkedin.com/in/joelnsadha
 
 <!--
-**joelnsadha/joelnsadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
